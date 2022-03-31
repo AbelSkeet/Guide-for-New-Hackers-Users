@@ -71,8 +71,5 @@ These are the terms that are commonly used in the CS:GO cheating community:
 
 Please keep in mind that the list here does not mean they are a 100% trustable source for cheating information, but we still put them in here for newcomers since it is way better than watching sketchy youtubers who might with a higher chance uploading unknown programs.
 
-TODO
 
-### Honourable mention:
 
-* Moderators from r/csgohacks: Of course you should know more about us! If you got any issues in CSGO cheating, feel free to create a post on subreddit!
