@@ -6,9 +6,9 @@
 
 ## Pricetag
 
-* 19.99 EUR \(~ 22.29 USD\) for 30 Days
-* 49.99 EUR \(~ 55.73 USD\) for 90 Days
-* 99.99 EUR \(~ 111.47 USD\) for 360 Days
+* 19.99 EUR \(~ 22.09 USD\) for 1 Month
+* 49.99 EUR \(~ 55.25 USD\) for 3 Months
+* 149.99 EUR \(~ 165.75\) for 12 Months
 
 Keep in mind that onetap now uses a subscription model, which means it will automatically purhcase your subscription when your subscription ends.
 
